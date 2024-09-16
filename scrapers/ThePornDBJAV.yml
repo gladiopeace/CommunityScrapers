@@ -115,6 +115,6 @@ driver:
     - Key: Authorization
       # Generate an API key at https://theporndb.net/user/api-tokens
       # and replace YOUR_API_KEY_HERE with the generated key
-      Value: Bearer YOUR_API_KEY_HERE
+      Value: Bearer OXxxo2BCq0KWfhporbYCWohnvC8T5T2zQSQECD13b1523c1e
       #      ^^^^^^-- This part needs to stay the same
 # Last Updated January 04, 2024
